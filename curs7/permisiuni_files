@@ -1,0 +1,15 @@
+r = read  2**2 = 4
+w = write  2**1 = 2
+x = execute 2**0 = 1
+                   total : 7 persoane
+drwxrwxrwx
+ rwx   rw-     r--    index.php
+ owner  group   other
+in terminal: (linux)
+chmod 700 index.php
+
+x - file pt execute
+x - dir pt listare fisiere
+
+chown user:group dir
+-r -> recursive
